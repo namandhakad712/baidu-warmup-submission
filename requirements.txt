@@ -1,0 +1,7 @@
+paddlepaddle
+paddleocr
+erniebot
+markdown
+beautifulsoup4
+requests
+openai
